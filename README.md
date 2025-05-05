@@ -1,6 +1,6 @@
-## NAME: NIRMAL N
+## Name: Madhumitha.B
 
-## RegisterNumber: 212223240107
+## RegisterNumber: 212224050018
 
 # HALF_ADDER_SUBTRACTOR
 
